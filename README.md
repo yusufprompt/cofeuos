@@ -29,6 +29,9 @@ font.psf `font.psf`
 Makefile `Makefile`
 # Needed Tools
 i686-elf-gcc `i686-elf-gcc`
+
 i686-elf-ld `i686-elf-ld`
+
 nasm `nasm`
+
 objcopy `objcopy`
