@@ -8,4 +8,4 @@
 
 
 # makefile
-to make (make)
+to make '''make run'''
