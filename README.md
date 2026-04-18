@@ -1,8 +1,9 @@
 
+
 ##### cofeuos
 
-<img width="320" height="200" alt="indir" src="https://github.com/user-attachments/assets/4a1228f0-fd7d-4446-8a5a-038db03392a6" />
 
+<img width="320" height="200" alt="indir (1)" src="https://github.com/user-attachments/assets/7468682c-e5c8-430d-9cf7-8dafe06ef739" />
 
 
 
@@ -20,9 +21,9 @@ gdt.asm `boot\gdt.asm`
 
 kernel_entry.asm `boot\kernel_entry.asm`
 
-kernel.c `kernel\kernel.c`
+main.c `src/kernel/main.c`
 
-terminus_font.h `kernel\terminus_font.h`
+gohufont.h `gohufont.h`
 
 font.psf `font.psf`
 
